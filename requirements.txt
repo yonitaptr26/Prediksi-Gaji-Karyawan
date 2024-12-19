@@ -1,0 +1,11 @@
+fastapi
+pydantic
+uvicorn[standard]
+python-multipart
+numpy
+Pillow
+tensorflow
+torch
+numpy
+transformers
+joblib
